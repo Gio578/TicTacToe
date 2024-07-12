@@ -2,4 +2,4 @@
 
 https://gio578.github.io/TicTacToe/
 
-An interactive multiplayer TicTacToe game.
+An interactive multiplayer Tic Tac Toe game.
