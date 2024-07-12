@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: #228B22;
+    color: white;
+}
+
+h2 {
+    margin-bottom: 25px;
+}
+
+table {
+    background-color: darkgreen;
+    width: 50%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.table-cell {
+    padding: 75px;
+}
+
+button {
+    padding: 20px;
+}
+
+.replay-button {
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+#score-x {
+    padding: 20px;
+}
+
+#score-o {
+    padding: 20px;
+}
